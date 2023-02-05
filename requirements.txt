@@ -1,0 +1,5 @@
+streamlit
+diffusers
+torch
+accelerate==0.15.0
+transformers==4.26.0
